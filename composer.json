@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dibi/dibi": "^4.2",
+        "doctrine/dbal": "^3.2"
+    }
+}
